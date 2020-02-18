@@ -13,7 +13,7 @@ Muhammad Isa Senoaji - 05111640000078
 
 ## i. Dataset
 
-Dataset yang digunakan adalah tentang .... yang berasal dari kaggle.
+Dataset yang digunakan adalah Women's Shoe Price yang mana menceritakan tentang harga sepatu seorang wanita ketika membeli sepatu yang berasal dari kaggle. Dataset dapat di lihat/download <a href="#">disini</a>
 
 ## 1. Bussiness Understanding
 
