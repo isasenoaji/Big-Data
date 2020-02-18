@@ -26,7 +26,10 @@ Kemungkinan yang dapat ditarik informasi dari dataset diatas antara lain :
 
 ## 2. Data Undestanding
 
-
+- Dataset merupakan data penjualan harga sepatu wanita pada sebuah vendor Marketplace Amazon
+- Dataset terdiri dari 2 file berbentuk .csv yang mana setiap file terdiri dari 10.000 baris data dan 10.212 baris data
+- Field/column terdiri dari 32 column
+- Untuk penjelasan lebih detail tentang detail column dapat dilihat <a href="https://developer.datafiniti.co/docs/product-data-schema">disini</a>
 
 ## 3. Data Preparation
 
