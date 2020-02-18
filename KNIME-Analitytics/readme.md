@@ -13,13 +13,25 @@ Muhammad Isa Senoaji - 05111640000078
 
 ## i. Dataset
 
-Dataset yang digunakan adalah Women's Shoe Price yang mana menceritakan tentang harga sepatu seorang wanita ketika membeli sepatu yang berasal dari kaggle. Dataset dapat di lihat/download <a href="#">disini</a>
+Dataset yang digunakan adalah Women's Shoe Price yang mana menceritakan tentang harga sepatu seorang wanita ketika membeli sepatu yang berasal dari kaggle. Dataset dapat di lihat/download <a href="https://www.kaggle.com/datafiniti/womens-shoes-prices">disini</a> atau terdapat pada repositori diatas.
 
 ## 1. Bussiness Understanding
 
+Kemungkinan yang dapat ditarik informasi dari dataset diatas antara lain :
+- Markup merk
+- Tren Model Sepatu Terkini
+- Strategi Penetapan Harga
+- Korelasikan dengan dataset model sepatu pria untuk membedakan tren
+
+
 ## 2. Data Undestanding
 
+
+
 ## 3. Data Preparation
+
+- Download file dataset yang tersedia pada repositori diatas, file dataset terdiri dari 2 file berekstensi .csv
+- Split dataset menjadi 2 bagian, satu bagian berupa file (berupa .csv) di dalam folder yang di tentukan dan satu bagian berupa database yang sebelumnya dari sebuah file (Manual Import Data) kedalam database. 
 
 ## 4. Modeling
 
