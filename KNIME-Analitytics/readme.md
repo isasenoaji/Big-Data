@@ -37,7 +37,7 @@ Kemungkinan yang dapat ditarik informasi dari dataset diatas antara lain :
 - Split dataset menjadi 2 bagian, satu bagian berupa file (berupa .csv) di dalam folder yang di tentukan dan satu bagian berupa database yang sebelumnya dari sebuah file kedalam database. 
 - Untuk mengimport data ke database, Saya menggunakan KNIME untuk mengimport agar langsung terbuat table serta jenis tablenya didatabase dengan model sebagai berikut :
 
-<img src="/KNIME-Analytics/resource/screenshot/Screenshot (10).png">
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (10).png">
 
 *** Penjelasan : terdapat 3 node, node 1 sebagai CSV Reader untuk membaca file .csv, node 2 sebagai MySQL COnnector untuk menghubungkan ke database dan node 3 untuk DB writter sebagai penulis dari file ke database.
 
@@ -49,7 +49,7 @@ Untuk memodelkan proses ETL, Saya menggunakan 2 resource yaitu file local dan da
 
 Berikut workflow yang dibuat :
 
-<img src="/KNIME-Analytics/resource/screenshot/Screenshot (19).png">
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (19).png">
 
 
 ## 5. Evaluation
