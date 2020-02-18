@@ -49,7 +49,7 @@ Untuk memodelkan proses ETL, Saya menggunakan 2 resource yaitu file local dan da
 
 Berikut workflow yang dibuat :
 
-<img src="/Big-Data/KNIME-Analytics/resource/screenshot/Screenshot (19).png">
+<img src="/resource/screenshot/Screenshot (19).png">
 
 
 ## 5. Evaluation
