@@ -1,7 +1,6 @@
 # ANALISIS DATA MENGGUNAKAN SOFTWARE KNIME
 
-Muhammad Isa Senoaji
-05111640000078
+Muhammad Isa Senoaji - 05111640000078
 
 ### Daftar Isi :
 
@@ -11,6 +10,10 @@ Muhammad Isa Senoaji
 4. [Modeling](#4-modeling)
 5. [Evaluation](#5-evaluation)
 6. [Deployment](#6-deployment)
+
+## i. Dataset
+
+Dataset yang digunakan adalah tentang .... yang berasal dari kaggle.
 
 ## 1. Bussiness Understanding
 
