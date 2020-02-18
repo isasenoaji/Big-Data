@@ -2,5 +2,5 @@
 
 #### Repositori ini merupakan dokumentasi dan manual setup pada Matakuliah Big Data 2019/2020
 
-#### Created by  : Muhammad Isa Senoaji
-#### NRP         : 05111640000078
+#### Created by &nbsp: Muhammad Isa Senoaji
+#### NRP &nbsp;&nbsp;&nbsp;&nbsp: 05111640000078
