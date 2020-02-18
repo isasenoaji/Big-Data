@@ -34,7 +34,11 @@ Kemungkinan yang dapat ditarik informasi dari dataset diatas antara lain :
 ## 3. Data Preparation
 
 - Download file dataset yang tersedia pada repositori diatas, file dataset terdiri dari 2 file berekstensi .csv
-- Split dataset menjadi 2 bagian, satu bagian berupa file (berupa .csv) di dalam folder yang di tentukan dan satu bagian berupa database yang sebelumnya dari sebuah file (Manual Import Data) kedalam database. 
+- Split dataset menjadi 2 bagian, satu bagian berupa file (berupa .csv) di dalam folder yang di tentukan dan satu bagian berupa database yang sebelumnya dari sebuah file kedalam database. 
+- Untuk mengimport data ke database, Saya menggunakan KNIME untuk mengimport agar langsung terbuat table serta jenis tablenya didatabase dengan model sebagai berikut :
+
+
+* Penjelasan : terdapat 3 node, node 1 sebagai CSV Reader untuk membaca file .csv, node 2 sebagai MySQL COnnector untuk menghubungkan ke database dan node 3 untuk DB writter sebagai penulis dari file ke database.
 
 ## 4. Modeling
 
