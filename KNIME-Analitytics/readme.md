@@ -93,7 +93,9 @@ konfigurasi pada node 6 :
 
 Dari hasil konfigurasi diatas di harapkan dapat membuat file .csv serta menulis kedalam database bernama ``` result_append ``` dari hasil append data dari file .csv dan data dari database. untuk mengetahuinya klik kanan pada masing-masing node lalu klik execute secara beratur dari node 1 sampai node 6.
 
-setelah dilakukan percobaan, hasilnya success dan berhasil.
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (20).png">
+
+setelah dilakukan percobaan, hasilnya success dan berhasil dengan ditandai tanda hijau.
 
 
 ## 6. Deployment
