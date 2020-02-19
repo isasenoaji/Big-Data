@@ -43,6 +43,18 @@ Kemungkinan yang dapat ditarik informasi dari dataset diatas antara lain :
 
 Adapun konfigurasi masing-masing node bisa dilihat pada gambar dibawah ini :
 
+node 1 :
+
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (21).png">
+
+node 2 :
+
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (9).png">
+
+node 3 :
+
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (11).png">
+
 ## 4. Modeling
 
 Untuk memodelkan proses ETL, Saya menggunakan 2 resource yaitu file local dan data pada database. setelah itu masing-masing dibaca lalu di append menjadi satu file. ketika telah diappend, tulis / buat hasil append menjadi file dan tulis juga dalam table result didatabase. 
@@ -88,9 +100,11 @@ setelah dilakukan percobaan, hasilnya success dan berhasil.
 
 berikut hasil file .csv :
 
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (22).png">
 
 
 berikut hasil penulisan pada database :
 
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (23).png">
 
 
