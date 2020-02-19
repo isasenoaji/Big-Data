@@ -53,7 +53,7 @@ Berikut workflow yang dibuat :
 
 konfigurasi pada node 1 :
 
-img src="/KNIME-Analitytics/resource/screenshot/Screenshot (14).png">
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (14).png">
 
 konfigurasi pada node 2 :
 
@@ -79,8 +79,18 @@ konfigurasi pada node 6 :
 
 ## 5. Evaluation
 
+Dari hasil konfigurasi diatas di harapkan dapat membuat file .csv serta menulis kedalam database bernama ``` result_append ``` dari hasil append data dari file .csv dan data dari database. untuk mengetahuinya klik kanan pada masing-masing node lalu klik execute secara beratur dari node 1 sampai node 6.
+
+setelah dilakukan percobaan, hasilnya success dan berhasil.
+
+
 ## 6. Deployment
 
+berikut hasil file .csv :
+
+
+
+berikut hasil penulisan pada database :
 
 
 
