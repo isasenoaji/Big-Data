@@ -57,11 +57,11 @@ img src="/KNIME-Analitytics/resource/screenshot/Screenshot (14).png">
 
 konfigurasi pada node 2 :
 
-img src="/KNIME-Analitytics/resource/screenshot/Screenshot (15).png">
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (15).png">
 
 konfigurasi pada node 3 :
 
-img src="/KNIME-Analitytics/resource/screenshot/Screenshot (16).png">
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (16).png">
 
 konfigurasi pada node 4 :
 
@@ -69,11 +69,11 @@ Konfigurasi node 4 tidak diperlukan, namun yang perlu diperhatikan adalah input 
 
 konfigurasi pada node 5 :
 
-img src="/KNIME-Analitytics/resource/screenshot/Screenshot (17).png">
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (17).png">
 
 konfigurasi pada node 6 :
 
-img src="/KNIME-Analitytics/resource/screenshot/Screenshot (18).png">
+<img src="/KNIME-Analitytics/resource/screenshot/Screenshot (18).png">
 
 
 
